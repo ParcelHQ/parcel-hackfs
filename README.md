@@ -1,6 +1,6 @@
 # Parcel HackFS Submission
 
-Parcel is a decentralized, crypto payroll service with built-in end-to-end data encryption using Sablier, Filecoin, IPFS, Textile’s Powergate.
+Parcel is a decentralized, crypto payroll service with built-in end-to-end data encryption using Sablier, Filecoin, IPFS, & Textile’s Powergate.
 
 ## Setup
 
