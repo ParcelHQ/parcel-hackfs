@@ -21,8 +21,9 @@ It also ensures end to end encryption for organisation data on IPFS and Filecoin
 Moreover, Parcel is built to empower people to receive payments in real time and employers to run payroll and manage organisation documents without any hassle.
 
 ## Components 
-1. Parcel Contracts :- It contains the smart contracts code for creating organisation using ENS names, running mass payouts and money streaming using Sablier protocol and Swap tokens using Uniswap. The idea of mass payouts is inspired from the initial version of Parcel which was built at Hack Money Hackathon. However, the code for the mass payouts in this version is different from what is being used in initial version. Repo Link :- https://github.com/ParcelHQ/parcel-contracts 
-, Hack Money Project Link :- https://hack.ethglobal.co/showcase/parcel-recUVCg0viNysWQAs 
+1. Parcel Contracts :- It contains the smart contracts code for creating organisation using ENS names, running mass payouts and money streaming using Sablier protocol and Swap tokens using Uniswap. The idea of mass payouts is inspired from the initial version of Parcel which was built at Hack Money Hackathon. However, the code for the mass payouts in this version is different from what is being used in initial version.
+Repo Link :- https://github.com/ParcelHQ/parcel-contracts/tree/massPayouts 
+Hack Money Project Link :- https://hack.ethglobal.co/showcase/parcel-recUVCg0viNysWQAs 
 
 2. Parcel UI : It contains the code for user interface for the application built with Reactjs. 
 Repo Link : https://github.com/ParcelHQ/parcel-ui
